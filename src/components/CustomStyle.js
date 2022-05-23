@@ -99,4 +99,9 @@ const NavItem = styled.a`
     }
 `;
 
-export { Nav, DisneyLogo, LoginButton, NavMenu, NavItem };
+const SliderImage = styled.img`
+    width: 100%;
+    height: 500px;
+`;
+
+export { Nav, DisneyLogo, LoginButton, NavMenu, NavItem, SliderImage };
